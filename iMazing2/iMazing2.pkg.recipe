@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.pkg.iMazing2</string>
+	<string>com.github.syx-recipes.pkg.iMazing2</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
