@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Keka and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.github.delpech.pkg.Keka</string>
+	<string>com.github.syx-recipes.pkg.Keka</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
@@ -18,7 +18,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.delpech.download.Keka</string>
+	<string>com.github.syx-recipes.download.Keka</string>
 	<key>Process</key>
 	<array>
 		<dict>
