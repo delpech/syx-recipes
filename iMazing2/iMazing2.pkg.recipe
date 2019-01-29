@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Identifier</key>
+	<string>local.pkg.iMazing2</string>
+	<key>Input</key>
+	<dict>
+		<key>BUNDLE_ID</key>
+		<string>com.DigiDNA.iMazingMac</string>
+		<key>NAME</key>
+		<string>iMazing2</string>
+		<key>SPARKLE_FEED_URL</key>
+		<string>https://updates.devmate.com/com.DigiDNA.iMazing2Mac.xml</string>
+		<key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
+        <string>true</string>
+	</dict>
+	<key>ParentRecipe</key>
+	<string>com.github.homebysix.pkg.iMazing</string>
+	<key>ParentRecipeTrustInfo</key>
+	<dict>
+		<key>non_core_processors</key>
+		<dict/>
+		<key>parent_recipes</key>
+		<dict>
+			<key>com.github.homebysix.download.iMazing</key>
+			<dict>
+				<key>git_hash</key>
+				<string>1276cf41b008001b224e7c85c1ce24a3138578bb</string>
+				<key>path</key>
+				<string>~/Library/AutoPkg/RecipeRepos/com.github.autopkg.homebysix-recipes/iMazing/iMazing.download.recipe</string>
+				<key>sha256_hash</key>
+				<string>28ee25b75001627bf86ba874c17368bcfc0fa1731bc8df9f04359334b72fdcf5</string>
+			</dict>
+			<key>com.github.homebysix.pkg.iMazing</key>
+			<dict>
+				<key>git_hash</key>
+				<string>8a011dfd74579a361268b4c6d5cd07e7e9166b9c</string>
+				<key>path</key>
+				<string>~/Library/AutoPkg/RecipeRepos/com.github.autopkg.homebysix-recipes/iMazing/iMazing.pkg.recipe</string>
+				<key>sha256_hash</key>
+				<string>a36dfe3d5ee970c269a518876f3312b1e61df8b84b9f444707d79b310fcb94aa</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
