@@ -26,6 +26,8 @@
 		<string>The macOS file archiver</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>%NAME%.png</string>
+		<key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
+        	<string>true</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
