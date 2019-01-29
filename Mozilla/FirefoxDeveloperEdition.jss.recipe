@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads Firefox disk image, builds a package and import it into your JSS.</string>
     <key>Identifier</key>
-    <string>com.github.delpech.jss.FirefoxDeveloperEdition</string>
+    <string>com.github.syx-recipes.jss.FirefoxDeveloperEdition</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
