@@ -9,7 +9,7 @@
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
-		<string>iMazing2</string>
+		<string>FileZilla</string>
 		<key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
         <string>true</string>
 	</dict>
