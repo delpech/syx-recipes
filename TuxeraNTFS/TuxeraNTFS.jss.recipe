@@ -6,7 +6,7 @@
     <string>Downloads the latest version of Tuxera NTFS and copies the mpkg out of the dmg.</string>
     <key>Identifier</key>
     <string>com.github.syx-recipes.pkg.tuxerantfs</string>
-<key>Input</key>
+    <key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
 		<string>Utility</string>
