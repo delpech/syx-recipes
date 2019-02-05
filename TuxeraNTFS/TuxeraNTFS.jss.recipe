@@ -59,8 +59,6 @@
 				<string>%SELF_SERVICE_ICON%</string>
 				<key>version</key>
 				<string>%version%</string>
-				<key>pkg_path</key>
-                                <string>%RECIPE_CACHE_DIR%/%NAME%-%version%.mpkg</string>
 			</dict>
 			<key>Processor</key>
 			<string>JSSImporter</string>
